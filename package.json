@@ -1,0 +1,25 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "crud",
+  "main": "server.js",
+  "author": "Sandy_Miary",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@trifoia/zcrmsdk": "^0.1.3",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "global": "^4.4.0",
+    "mongoose": "^5.5.4",
+    "mongoose-auto-increment": "^5.0.1",
+    "mysql": "^2.17.1",
+    "node-zoho": "0.0.39",
+    "nodemailer": "^6.2.1",
+    "nodemon": "^1.19.1",
+    "xoauth2": "^1.2.0",
+    "zcrmsdk": "0.0.15"
+  }
+}
